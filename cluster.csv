@@ -1,0 +1,28 @@
+neighborhood,freq,adj_p_sqft,neighborhood
+Allston,17,1046.0477946615142,Allston
+Back Bay,213,1836.0154481226864,Back Bay
+Bay Village,15,1172.3768110065248,Bay Village
+Beacon Hill,54,1024.6579496063566,Beacon Hill
+Brighton,75,401.1469847766609,Brighton
+Charlestown,61,516.4631907970659,Charlestown
+Chinatown,25,1265.5055108018764,Chinatown
+Downtown,17,1539.0642184298918,Downtown
+Downtown Crossing,4,1226.7223062791197,Downtown Crossing
+East Boston,102,329.05084014886575,East Boston
+Fenway,13,370.97749628838386,Fenway
+Hyde Park,77,242.3000332899456,Hyde Park
+Jamaica Plain,154,391.4611652000782,Jamaica Plain
+Kenmore,11,601.2204773450172,Kenmore
+Leather District,1,681.9099469728918,Leather District
+Mattapan,63,208.12957390530644,Mattapan
+Mission Hill,15,463.70891419878376,Mission Hill
+North Dorchester,61,295.78807588030435,North Dorchester
+North End,46,1573.9819297300307,North End
+Roslindale,80,280.7939972281764,Roslindale
+Roxbury,128,206.50558940105418,Roxbury
+South Boston,133,561.0288234402304,South Boston
+South Dorchester,175,273.1732132371517,South Dorchester
+South End,154,875.9214410197749,South End
+West End,4,414.48539437804686,West End
+West Roxbury,109,365.6205739183276,West Roxbury
+Winthrop,1,101.62281593327181,Winthrop
